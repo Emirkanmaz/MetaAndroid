@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Little Lemon Ingredients</string>
+    <string name="title_activity_ingredients">IngredientsActivity</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PriceCalculator</string>
+    <string name="title_activity_main.xml">activity_main.xml</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
